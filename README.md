@@ -1,6 +1,6 @@
 Use at your own responsibility. This tool is created for educational purposes only.
 # HaCoder.py
-The project is ABANDONED! Now It's fully detectable, If you got infected by this malware, please download AVG or Avast to remove it.
+This project is ABANDONED! Now It's fully detectable, If you got infected by this malware, please download AVG or Avast to remove it.
 
 # Credits
 David Buday - Exceptions
