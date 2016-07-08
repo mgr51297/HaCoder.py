@@ -1,10 +1,9 @@
 Use at your own responsibility. This tool is created for educational purposes only.
 # HaCoder.py
-The project is CLOSED! Now It's fully detectable, If you got infected by this malware, please download AVG or Avast to remove it.
+The project is ABANDONED! Now It's fully detectable, If you got infected by this malware, please download AVG or Avast to remove it.
 
 # Credits
-Technic Dynamic - Backdoor and Handler<br>
-David Buday - Fixing Bugs
+David Buday - Exceptions
 
 # Requirements
 Following requirements are used to convert PY file to MS Executable EXE
